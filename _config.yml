@@ -1,0 +1,100 @@
+# Site settings
+title: Corentin Corde
+description: Corentin Corde CV
+favicon: /assets/img/moi_BW.jpg
+baseurl:
+url: http://ddbullfrog.com
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+# Author settings
+author:
+  name: Corentin Corde
+  title: Ingénieur génie Electrique spécialité Embedded System
+  address: Lyon, France
+  email: corentincorde@orange.fr
+  link: http://ddbullfrog.com
+  weibo:
+  github: konovagit
+  linkedin: ddbullfrog
+  twitter: _konova_
+  gavatar: /assets/img/moi_BW.jpg
+  Formations:
+    - education1:
+      organization: Polytech Clermont-Ferrand (CUST)
+      degree: Ingénieur en Génie électrique option systèmes informatiques embarqués
+      started: 2013
+      duration: (2013 - 2016)
+      description:
+    - education2: 
+      organization: Université Claude Bernard LYON 1
+      degree: Diplôme Universitaire de Technologie Génie Electrique et Informatique Industrielle
+      started: 2011
+      duration: (2011 - 2013)
+      description:
+    - education3: 
+      organization: La Martinière Monplaisir LYON
+      degree: Diplôme du Baccalauréat Sciences et Technologies Industrielles option génie Electrotechnique Mention Bien
+      started: 2010
+      duration: (2010 - 2011)
+      description:
+  Expériences professionnelles:
+    - work1:
+      company: EKIUM 
+      location: 5 Allée des Droits de l'Homme, 69500 Bron, France
+      title: Stage Technicien Supérieur
+      started: 2013
+      duration: (3 mois Avril-Juin)
+      description: Réalisation d’automatismes et de supervisions ; Projet d’immotique pour bâtiment BBC ; Lecture de plans, schémas électriques, réunions clients, gestion de l’énergie dans les bâtiments.
+    - work2:
+      company: UCPA CARRE DE SOIE 
+      location: 3 Avenue de Bohlen, 69120 Vaulx-en-Velin, France
+      title: Animateur Sportif
+      started: 2012
+      duration: (Tous les mois de Juin de 2012 à 2014)
+      description: Encadrement d’un parc de jeux gonflables, animation (groupe de 15 personnes), gestion des entrées sorties.
+    - work3:
+      company: Scierie DUBOT et FILS   
+      location: 63380 –SAINT AVIT
+      title: Mission d’intérim Opérateur de scierie
+      started: 2011
+      duration: (Juillet-Aout)
+      description: Travail à la chaine, triage du bois et mise sur palette.
+    - work4: 
+      company: SARL YVES PACCALIN   
+      location: 23 rue Louis Cézard 69008 LYON
+      title: Stage d'Electricien
+      started: 2010
+      duration: (Juillet)
+      description: Travaux d’électricité sur chantier et particulier. Lecture de schémas électriques, raccord au réseau électrique EDF.
+  languages:
+    - language1:
+      name: Français
+      proficiency: Native
+    - language2:
+      name: English (Toeic:775)
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: C
+      percentage: 80%
+    - skill2:
+      name: C++
+      percentage: 65%
+    - skill3:
+      name: Qt
+      percentage: 75%
+    - skill4:
+      name: Tcl/Tk
+      percentage: 55%
+    - skill5:
+      name: VHDL
+      percentage: 70%
+    - skill6:
+      name: SQL
+      percentage: 65%
+    - skill7:
+      name: Bash
+      percentage: 65%
