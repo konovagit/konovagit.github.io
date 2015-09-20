@@ -21,13 +21,13 @@ author:
   linkedin: ddbullfrog
   twitter: _konova_
   gavatar: /assets/img/moi_BW.jpg
-  Formations:
+  educationHistory:
     - education1:
       organization: Polytech Clermont-Ferrand (CUST)
       degree: Ingénieur en Génie électrique option systèmes informatiques embarqués
       started: 2013
       duration: (2013 - 2016)
-      description:
+      description: 
     - education2: 
       organization: Université Claude Bernard LYON 1
       degree: Diplôme Universitaire de Technologie Génie Electrique et Informatique Industrielle
@@ -40,29 +40,36 @@ author:
       started: 2010
       duration: (2010 - 2011)
       description:
-  Expériences professionnelles:
+  workHistory:
     - work1:
+      company: Internship Kingston University 
+      location: Penrhyn Rd, Kingston upon Thames, Surrey KT1 2EE, Royaume-Uni
+      title: Internship (4ème année d'ingénieur)
+      started: 2015
+      duration: (3 mois Juin-Aout)
+      description: Collaboration avec le Dr Francisco Florez Revuelta pour le projet Européen Ambient Assisted Living. Il s'agit d'un vaste programme pour améliorer la vie des personnes âgées chez eux. Dans ce stage j'ai utilisé la vision par ordinateur et notamment la librairie OpenCV en C++. Le but de mon projet était de tracker des personnes dans une pièce et de déterminer de manière automatique leurs activités. Pour cela j'ai testé et créé différents algorithmes de traitement.
+    - work2:
       company: EKIUM 
       location: 5 Allée des Droits de l'Homme, 69500 Bron, France
       title: Stage Technicien Supérieur
       started: 2013
       duration: (3 mois Avril-Juin)
       description: Réalisation d’automatismes et de supervisions ; Projet d’immotique pour bâtiment BBC ; Lecture de plans, schémas électriques, réunions clients, gestion de l’énergie dans les bâtiments.
-    - work2:
+    - work3:
       company: UCPA CARRE DE SOIE 
       location: 3 Avenue de Bohlen, 69120 Vaulx-en-Velin, France
       title: Animateur Sportif
       started: 2012
       duration: (Tous les mois de Juin de 2012 à 2014)
       description: Encadrement d’un parc de jeux gonflables, animation (groupe de 15 personnes), gestion des entrées sorties.
-    - work3:
+    - work4:
       company: Scierie DUBOT et FILS   
       location: 63380 –SAINT AVIT
       title: Mission d’intérim Opérateur de scierie
       started: 2011
       duration: (Juillet-Aout)
       description: Travail à la chaine, triage du bois et mise sur palette.
-    - work4: 
+    - work5: 
       company: SARL YVES PACCALIN   
       location: 23 rue Louis Cézard 69008 LYON
       title: Stage d'Electricien
@@ -74,27 +81,38 @@ author:
       name: Français
       proficiency: Native
     - language2:
-      name: English (Toeic:775)
+      name: English (Toeic:780)
       proficiency: Professional
   programmingSkills:
     - skill1:
       name: C
-      percentage: 80%
+      percentage: 85%
     - skill2:
       name: C++
-      percentage: 65%
+      percentage: 75%
     - skill3:
       name: Qt
-      percentage: 75%
+      percentage: 65%
     - skill4:
       name: Tcl/Tk
-      percentage: 55%
+      percentage: 50%
     - skill5:
       name: VHDL
-      percentage: 70%
+      percentage: 75%
     - skill6:
-      name: SQL
-      percentage: 65%
+      name: OpenCV
+      percentage: 75%
     - skill7:
+      name: SQL
+      percentage: 60%
+    - skill8:
       name: Bash
-      percentage: 65%
+      percentage: 60%
+    - skill9:
+      name: CAO
+      percentage: 75%
+    - skill9:
+      name: Html
+      percentage: 60%
+
+    
