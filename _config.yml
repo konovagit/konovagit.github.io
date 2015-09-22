@@ -15,10 +15,9 @@ author:
   title: Ingénieur génie Electrique spécialité Embedded System
   address: Lyon, France
   email: corentincorde@orange.fr
-  link: http://ddbullfrog.com
+  link: http://konovagit.github.io/
   weibo:
   github: konovagit
-  linkedin: ddbullfrog
   twitter: _konova_
   gavatar: /assets/img/moi_BW.jpg
   educationHistory:
@@ -94,8 +93,8 @@ author:
       name: Qt
       percentage: 65%
     - skill4:
-      name: Tcl/Tk
-      percentage: 50%
+      name: SystemC
+      percentage: 65%
     - skill5:
       name: VHDL
       percentage: 75%
@@ -111,8 +110,6 @@ author:
     - skill9:
       name: CAO
       percentage: 75%
-    - skill9:
-      name: Html
-      percentage: 60%
+
 
     
