@@ -1,7 +1,7 @@
 # Site settings
 title: Corentin Corde
 description: Corentin Corde CV
-favicon: /assets/img/me_rtone.jpeg
+favicon: /assets/img/me_rtone.jpg
 baseurl:
 url: http://konovagit.github.io/
 rss_url: /pages/atom.xml
@@ -18,8 +18,9 @@ author:
   link: http://konovagit.github.io/
   weibo:
   github: konovagit
+  linkedin: corentin-corde-291abb139
   twitter: corentincorde
-  gavatar: /assets/img/me_rtone.jpeg
+  gavatar: /assets/img/me_rtone.jpg
   educationHistory:
     - education1:
       organization: Polytech Clermont-Ferrand (CUST)
